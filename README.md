@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pillzu
-- 👀 I’m interested in Software Engineering, backend-engineering to be specific.
-- 🌱 I’m currently learning on how to deploy secure services and build Flutter apps
-- 💞️ I’m looking to collaborate on Go-based Microservice implementations and Flutter UI/UX Development
+- 👀 I’m interested in Software Engineering, backend engineering to be specific.
+- 🌱 I’m currently learning about serverless vs micro-service architecture
+- 💞️ I’m looking to collaborate on Svelte and Go Projects
 - 📫 Reach me on p3upadhy@uwaterloo.ca
 
 <!---
